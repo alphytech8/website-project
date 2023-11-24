@@ -1,0 +1,1 @@
+This website project entails an electronic online shop where users are able to select there phone or phone devices of their choices ,select the numbers they want and add to cart where additional amount totals up
